@@ -1,4 +1,3 @@
-``` markdown
 # ESP32 Camera Web Server
 
 A feature-rich web server implementation for ESP32 camera modules with support for streaming, face detection, and face recognition.
