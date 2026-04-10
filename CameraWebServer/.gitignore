@@ -1,0 +1,15 @@
+# Exclude build folder
+build/
+
+# Exclude Arduino temporary files
+*.ino.*
+*.tmp
+
+# Exclude sensitive environment files
+.env
+
+.idea/
+
+# Exclude additional temporary editor files
+*.swp
+*.swo
