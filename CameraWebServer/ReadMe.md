@@ -26,8 +26,11 @@ In `CameraWebServer.ino`, uncomment the appropriate camera model:
 ```
 
 ### Step 2: Configure Pixel Format
-Choose between streaming and face detection [used RGB565 for this board]:
-``` cpp
+
+Choose between streaming and face detection [[Used PIXFORMAT_RGB565 for **ESP32-CAM Wi-Fi Bluetooth Development Board with Micro
+USB Port**](https://www.faranux.com/product/esp32-cam-to-wi-fi-bluetooth-development-board-with-micro-usb-port)]:
+
+```
 // For streaming (JPEG)
 // config.pixel_format = PIXFORMAT_JPEG;
 
