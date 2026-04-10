@@ -24,9 +24,9 @@ In `CameraWebServer.ino`, uncomment the appropriate camera model:
 ```cpp
 #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 ```
-```
+
 ### Step 2: Configure Pixel Format
-Choose between streaming and face detection:
+Choose between streaming and face detection [used RGB565 for this board]:
 ``` cpp
 // For streaming (JPEG)
 // config.pixel_format = PIXFORMAT_JPEG;
@@ -85,10 +85,10 @@ Once uploaded and running:
     - Toggle face detection/recognition
 
 ## Project Files
-- - Main sketch `CameraWebServer.ino`
-- - Pin definitions for different camera models `camera_pins.h`
-- - HTTP server implementation with face detection `app_httpd.cpp`
-- - Embedded web interface `camera_index.h`
+- Main sketch `CameraWebServer.ino`
+ - Pin definitions for different camera models `camera_pins.h`
+ - HTTP server implementation with face detection `app_httpd.cpp`
+ - Embedded web interface `camera_index.h`
 
 ## Troubleshooting
 ### Camera Init Failed
