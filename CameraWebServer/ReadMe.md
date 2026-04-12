@@ -25,7 +25,14 @@ In `CameraWebServer.ino`, uncomment the appropriate camera model:
 #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 ```
 
-### Step 2: Configure Pixel Format
+### Step 2: Configure Resolution and Pixel Format
+
+Sometimes the resolution might be high, so we need to change and use lower resolution. 
+
+```cpp
+// config.frame_size = FRAMESIZE_UXGA;
+config.frame_size = FRAMESIZE_SXGA;
+```
 
 Choose between streaming and face detection [[Used PIXFORMAT_RGB565 for **ESP32-CAM Wi-Fi Bluetooth Development Board with Micro
 USB Port**](https://www.faranux.com/product/esp32-cam-to-wi-fi-bluetooth-development-board-with-micro-usb-port)]:
