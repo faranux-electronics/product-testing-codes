@@ -145,4 +145,3 @@ This project is provided as-is for educational and development purposes.
 
 ## Author
 Faranux Team - 2026-05-08</content>
-<filePath>filePath">d:\dev\arduino\product-testing-codes\air780e_full_commander\readMe.md
