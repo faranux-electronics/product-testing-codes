@@ -39,7 +39,7 @@
 SoftwareSerial gsmSerial(10, 11);
 
 // --- CONFIGURATION ---
-String TARGET_PHONE = "+250785313949";
+String TARGET_PHONE = "+2507xxxxxxxx"; // Replace with your phone number (with country code)
 String APN = "internet"; // MTN and Airtel Rwanda standard APN
 
 void setup() {
