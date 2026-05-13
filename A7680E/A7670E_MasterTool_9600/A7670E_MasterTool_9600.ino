@@ -4,14 +4,16 @@
  * Fixed for 9600 baud — SoftwareSerial is stable at this speed.
  * ==============================================================================
  *
- * HARDWARE WIRING (7-Pin Breakout Board):
- * Pin 1 (V_IN)   -> 6V External Power Supply (Prevents transmission boot-loops!)
- * Pin 2 (GND)    -> GND (of Arduino & Power Supply)
- * Pin 3 (TXD)    -> Arduino Pin 10 (SoftwareSerial RX)
- * Pin 4 (RXD)    -> Arduino Pin 11 (SoftwareSerial TX)
- * Pin 5          
- * Pin 6 (GND)    -> Unconnected (or secondary ground)
- * Pin 7 (PWRKEY) -> Leave unconnected if board auto-boots. Otherwise, tap to GND for 1s.
+ * HARDWARE WIRING (7-Pin Breakout Header):
+ * - `5-12V`: 6V external power supply positive
+ * - `GND`: shared ground for Arduino and the power supply
+ * - `TX`: module TX → Arduino Pin 10 (SoftwareSerial RX)
+ * - `RX`: module RX → Arduino Pin 11 (SoftwareSerial TX)
+ * - `3.8EN`: leave unconnected if the board auto-boots
+ * - `NET`: not used for this sketch
+ * - `DTR`: not used for this sketch
+ *
+ * Connector order on the board header (top to bottom): `DTR`, `NET`, `3.8EN`, `RX`, `TX`, `GND`, `5-12V`.
  *
  * POWER REQUIREMENTS: The board requires at least 6V with 2A current for proper operation.
  *
