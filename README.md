@@ -9,6 +9,7 @@ Repository layout (top-level folders):
 - `CameraWebServer/`: ESP32 camera web server with streaming capabilities.
 - `DFMiniMp3/`: Example sketches for the DFMiniMp3 audio module (multiple libraries/examples).
 - `dht11/`: DHT11 temperature/humidity sensor example and schematics.
+- `433MHz FS1000A - XY-MK-5V Kit/`: 433MHz RF wireless communication kit with transmitter and receiver sketches, wiring diagrams, and troubleshooting guide.
 - `laser-sensor/`: Laser receiver/detection module example.
 - `ldr/`: LDR (light-dependent resistor) test sketch.
 - `max9814/`: Microphone preamp (MAX9814) example and schematics.
@@ -36,4 +37,4 @@ Contact
 - Repository owner: faranux-electronics (GitHub)
 
 ---
-Generated: July 14, 2026
+Generated: July 15, 2026
