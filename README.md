@@ -19,6 +19,7 @@ Repository layout (top-level folders):
 - `SIM800L/`: SIM800L GSM module test sketch with comprehensive wiring diagrams and troubleshooting guide.
 - `SIM900/`: SIM900 GSM/GPRS shield test sketch with power-up sequence and configuration options.
 - `Soil-Moisture-Temperature-EC-Sensor/`: Soil sensor test sketch.
+- `Turbidity Sensor/`: Turbidity sensor test sketch with NTU measurement and calibration guide.
 - `tft-touch-screen/`: TFT touchscreen examples, touch calibration, and media resources.
 
 Usage
