@@ -1,5 +1,7 @@
 # Turbidity Sensor Test Sketch
-Created by Faranux Team
+
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
 
 ## 📖 Overview
 This project implements a turbidity sensor test sketch using an Arduino Uno. It measures water turbidity by reading analog voltage from the sensor and converting it to NTU (Nephelometric Turbidity Units) using a calibrated formula. The system provides real-time voltage and turbidity readings through the Serial Monitor.

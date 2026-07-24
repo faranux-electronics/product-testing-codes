@@ -1,6 +1,7 @@
 # DFMini MP3 Player Arduino Examples
 
-> Tested and verified by [Faranux.com](https://faranux.com)  team
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
 
 This repository contains two different implementations for the DFPlayer Mini MP3 module using Arduino:
 

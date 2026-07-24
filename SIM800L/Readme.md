@@ -1,5 +1,8 @@
 # SIM800L GSM Module Test/Utility Sketch
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 A comprehensive Arduino sketch for testing and utilizing the SIM800L EVB V2.2 GSM module. This sketch provides SMS functionality, AT command pass-through, and diagnostic capabilities for the SIM800L module.
 
 ## Hardware Requirements
@@ -156,4 +159,4 @@ This sketch is provided by Faranux Electronics for testing and utility purposes.
 
 ## Support
 
-For more information, visit: [faranux.com](https://faranux.com)
+Website: [faranux.com](https://faranux.com)

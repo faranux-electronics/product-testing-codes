@@ -1,5 +1,8 @@
 # SIM800C GSM Module Test/Utility Sketch
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 ## Overview
 
 This sketch provides a comprehensive test and utility interface for the SIM800C GSM module. It allows you to send SMS messages, execute AT commands directly, and monitor module status through the Arduino Serial Monitor.
@@ -145,5 +148,5 @@ This is a demonstration/test sketch. Review code and wiring carefully before pow
 
 ## Contact
 
-- Faranux Electronics: faranux.com
 - Repository: faranux-electronics (GitHub)
+- Website: [faranux.com](https://faranux.com)

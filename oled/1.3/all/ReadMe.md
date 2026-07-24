@@ -1,5 +1,7 @@
 # 1.3" OLED Display Examples for Arduino and NodeMCU
-By Faranux Electronics Team
+
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
 
 This repository contains examples for interfacing with 1.3" OLED displays (SH1106 128x64) using Arduino and NodeMCU boards. Three different approaches are provided using popular display libraries:
 
@@ -89,5 +91,3 @@ If display shows nothing:
 
 ## License
 Open source - See individual library licenses for details.
-
-Source: [faranux.com](https://faranux.com)

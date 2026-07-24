@@ -1,5 +1,8 @@
 # 433MHz FS1000A - XY-MK-5V RF Kit
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 Arduino project for wireless communication using 433MHz ASK/OOK RF modules. This kit includes transmitter and receiver code for testing and prototyping wireless data communication between Arduino boards.
 
 ## Hardware Components

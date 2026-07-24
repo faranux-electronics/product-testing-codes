@@ -1,5 +1,8 @@
 # A7670E Product Testing Codes
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 This repository contains Arduino sketches for testing and configuring the A7670E LTE Cat-1 module with an Arduino Uno.
 
 ## Sketches
