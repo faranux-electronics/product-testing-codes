@@ -1,5 +1,7 @@
 # Laser Sensor Security System  
-Created by Faranux Team
+
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
 
 ## 📖 Overview
 This project implements a laser-based security system using an Arduino Uno. It uses a laser transmitter and receiver module to detect beam interruptions. When the beam is broken (e.g., by an intruder), the system triggers an alarm via a buzzer and a visual LED indicator. It also reports status messages to the Serial Monitor.

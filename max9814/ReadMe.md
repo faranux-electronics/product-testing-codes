@@ -1,5 +1,8 @@
 # MAX9814 Microphone Module with Arduino
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 ## Overview
 This project demonstrates how to use the MAX9814 microphone amplifier module with an Arduino to create a sound-reactive LED. The LED's brightness changes in response to detected sound levels, creating a simple audio visualization effect.
 
@@ -62,5 +65,5 @@ Refer to the schematics folder for detailed connection diagrams:
 This project is open-source and available under the MIT License.
 
 ## Credits
-Developed by Faranux Team (faranux.com)
+Developed by Faranux Team
 Last updated: July 31, 2025

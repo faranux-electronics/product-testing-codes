@@ -1,5 +1,8 @@
 # Air780E Full Commander
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 ## Overview
 This Arduino sketch provides a comprehensive command interface for the Air780E 4G Cat.1 module using an Arduino Uno. It allows users to interact with the module through a serial menu, sending AT commands for various functionalities including basic module control, network operations, SMS handling, internet connectivity, HTTP requests, TCP connections, and power management.
 

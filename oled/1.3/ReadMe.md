@@ -1,5 +1,8 @@
 # OLED Display Examples for Arduino and NodeMCU
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 This repository contains examples for interfacing with different OLED displays using Arduino and NodeMCU boards.
 
 ## Supported Displays
@@ -83,7 +86,6 @@ This repository contains examples for interfacing with different OLED displays u
 ```
 
 # 1.3" OLED Display Examples
-Source: faranux.com
 
 This repository provides examples for interfacing 1.3" OLED displays (SH1106 128x64) with Arduino and NodeMCU boards. These examples demonstrate both basic and advanced display functionality.
 
@@ -200,8 +202,7 @@ U8GLIB_SH1106_128X64 u8g(U8G_I2C_OPT_NONE);  // Default I2C
 ## Additional Resources
 - [U8glib Wiki](https://github.com/olikraus/u8glib/wiki)
 - [Adafruit SH110X Guide](https://learn.adafruit.com/adafruit-128x64-oled-featherwing)
-- [More tutorials at faranux.com](https://faranux.com)
+- Website: [faranux.com](https://faranux.com)
 
 ## License
 This project is open-source and uses libraries with their respective licenses.
-Source: faranux.com

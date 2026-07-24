@@ -1,4 +1,8 @@
 # 3.5" TFT Touch Screen with DOIT ESP32 DEVKIT V1   
+
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 ### 1. Pin Connection
 
 

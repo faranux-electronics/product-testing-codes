@@ -1,5 +1,8 @@
 # Reed Switch Arduino Project
 
+**Made by Faranux Electronics**  
+**Visit us at: [faranux.com](https://faranux.com)**
+
 This project demonstrates how to interface a reed switch with an Arduino board to detect the presence of a magnetic field. The system uses an LED to provide visual feedback of the switch state.
 
 ## Hardware Requirements
