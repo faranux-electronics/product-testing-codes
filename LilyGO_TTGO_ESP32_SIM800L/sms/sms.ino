@@ -10,7 +10,7 @@ constexpr int MODEM_POWER_ON = 23;
 constexpr int MODEM_RST      = 5;
 constexpr int MODEM_PWRKEY   = 4;
 
-const char RECIPIENT[] = "+250785313949";
+const char RECIPIENT[] = "+2507xxxxxxxx";
 const char MESSAGE[] =
   "Hello! This is a faranux.com test SMS from my LilyGO T-Call ESP32.";
 
